@@ -4,8 +4,8 @@ Hi! I am a SDE working at BAAI.
 
 🛠 Favorite languages: C# and C++
 
-AI compiler related projects:
-- [flagos/flagtree](https://github.com/flagos-ai/flagtree)
+🤖 AI compiler related projects:
+- [flagos-ai/flagtree](https://github.com/flagos-ai/flagtree)
 - [nncase](https://github.com/kendryte/nncase)
 
 🎨 Side projects：[MineCase](https://github.com/dotnetGame/MineCase)、[ChinoOS](https://github.com/chino-os/chino-os)
